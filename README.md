@@ -49,4 +49,8 @@ class ApiUrls {
   static const String baseUrl = 'https://urcardm5c3.execute-api.us-west-1.amazonaws.com/dev';
   String fetchAnime = "$baseUrl/fetch-anime";
 }
+
+## 🎥 App Preview
+
+![App Demo](assets/images/preview.mov)
 🚀 Happy Coding! 🎉
