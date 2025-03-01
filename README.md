@@ -53,4 +53,5 @@ class ApiUrls {
 ## 🎥 App Preview
 
 ![App Demo](assets/images/preview.mov)
+
 🚀 Happy Coding! 🎉
